@@ -1,0 +1,14 @@
+# Arduino build artifacts
+*.bin
+*.elf
+*.hex
+*.map
+*.d
+*.o
+
+# PlatformIO
+.pio/
+.build/
+
+# macOS
+.DS_Store
